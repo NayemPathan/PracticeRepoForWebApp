@@ -2,7 +2,7 @@ from pathlib import Path
 
 from fastapi import FastAPI
 
-app = FastAPI(title="FastAPI + React")
+app = FastAPI(title="Pathan CORP.")
 
 
 @app.get("/api/health")
